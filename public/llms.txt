@@ -1,0 +1,22 @@
+# PinkSurfing
+
+> PinkSurfing is a social business hub with three products: App (messaging + PayChat), Shop (multi-vendor marketplace), and Vendors (seller dashboard). Payments are powered by Square. Receiving PayChat and vendor payouts are United States only.
+
+## Products
+
+- App: https://app.pinksurfing.com — Chat, voice/video, stories, PayChat (pay-per-message; the person who got paid can send unlimited messages), contracts, wallet. Android on Google Play; iOS coming soon.
+- Shop: https://shop.pinksurfing.com — Products, businesses for sale, real estate, vehicles, electronics, GigHub hiring.
+- Vendors: https://vendors.pinksurfing.com — Vendor login and storefront management. US-only payouts.
+
+## Company
+
+- About: https://pinksurfing.com/about
+- Email: marketing@pinksurfing.com
+- Address: 800 W El Camino Real Ste 180, Mountain View, CA 94040-2586, United States
+- Privacy: https://pinksurfing.com/privacy
+- Privacy (full policy): https://landingpage.pinksurfing.com/privacy-policy.html
+- Website: https://pinksurfing.com
+
+## Downloads
+
+- Google Play: https://play.google.com/store/apps/details?id=com.pinksurfing.com
